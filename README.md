@@ -60,4 +60,4 @@ For log analyzer:
 ## Conclusion
 
 This project helped in understanding how open source software like Python works in a real Linux environment.  
-It also improved practical skills in shell scripting and system-level interaction.
+It also improved practical skills in shell scripting and system-level interaction. 
